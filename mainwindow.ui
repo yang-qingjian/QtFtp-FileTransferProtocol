@@ -178,7 +178,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>v0.ftp.upyun.com</string>
+     <string>127.0.0.1</string>
     </property>
     <property name="placeholderText">
      <string>请输入服务器地址</string>
@@ -197,7 +197,7 @@
      <string>默认用户名请使用：anonymous ，此时密码任意</string>
     </property>
     <property name="text">
-     <string>qtertest/qtftptest</string>
+     <string>QftpTest</string>
     </property>
     <property name="placeholderText">
      <string>请输入用户名</string>
@@ -213,7 +213,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>pwd123456</string>
+     <string>123456789</string>
     </property>
     <property name="echoMode">
      <enum>QLineEdit::Password</enum>
